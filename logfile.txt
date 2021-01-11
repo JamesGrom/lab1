@@ -1,0 +1,1217 @@
+started loging in ./logFile.txt
+
+///////////   waiting on first character to enter while loop  /////////
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   comment     Character as interpreted:   /    Lexical Output:       current Token:   /* sum.c */
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   keyword     Character as interpreted:   t    Lexical Output:   keyword    current Token:   int
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   f    Lexical Output:   identifier    current Token:   printf
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   (    Lexical Output:   operator    current Token:   (
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   )    Lexical Output:   operator    current Token:   )
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ;    Lexical Output:   operator    current Token:   ;
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   keyword     Character as interpreted:   t    Lexical Output:   keyword    current Token:   int
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   n    Lexical Output:   identifier    current Token:   main
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   (    Lexical Output:   operator    current Token:   (
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   keyword     Character as interpreted:   d    Lexical Output:   keyword    current Token:   void
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   )    Lexical Output:   operator    current Token:   )
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   {    Lexical Output:   operator    current Token:   {
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   keyword     Character as interpreted:   t    Lexical Output:   keyword    current Token:   int
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   i    Lexical Output:   identifier    current Token:   i
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ,    Lexical Output:   operator    current Token:   ,
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   n    Lexical Output:   identifier    current Token:   n
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ,    Lexical Output:   operator    current Token:   ,
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   m    Lexical Output:   identifier    current Token:   sum
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ;    Lexical Output:   operator    current Token:   ;
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   i    Lexical Output:   identifier    current Token:   i
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   =    Lexical Output:   operator    current Token:   =
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   number     Character as interpreted:   0    Lexical Output:   number    current Token:   0
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ;    Lexical Output:   operator    current Token:   ;
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   m    Lexical Output:   identifier    current Token:   sum
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   =    Lexical Output:   operator    current Token:   =
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   number     Character as interpreted:   0    Lexical Output:   number    current Token:   0
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ;    Lexical Output:   operator    current Token:   ;
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   n    Lexical Output:   identifier    current Token:   n
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   =    Lexical Output:   operator    current Token:   =
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   number     Character as interpreted:   0    Lexical Output:   number    current Token:   10
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ;    Lexical Output:   operator    current Token:   ;
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   keyword     Character as interpreted:   r    Lexical Output:   keyword    current Token:   for
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   (    Lexical Output:   operator    current Token:   (
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   i    Lexical Output:   identifier    current Token:   i
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   =    Lexical Output:   operator    current Token:   =
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   number     Character as interpreted:   1    Lexical Output:   number    current Token:   1
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ;    Lexical Output:   operator    current Token:   ;
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   i    Lexical Output:   identifier    current Token:   i
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   =    Lexical Output:   operator    current Token:   <=
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   n    Lexical Output:   identifier    current Token:   n
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ;    Lexical Output:   operator    current Token:   ;
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   i    Lexical Output:   identifier    current Token:   i
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   =    Lexical Output:   operator    current Token:   =
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   i    Lexical Output:   identifier    current Token:   i
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   +    Lexical Output:   operator    current Token:   +
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   number     Character as interpreted:   1    Lexical Output:   number    current Token:   1
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   )    Lexical Output:   operator    current Token:   )
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   tab     Character as interpreted:   	    Lexical Output:       current Token:   	
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   m    Lexical Output:   identifier    current Token:   sum
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   =    Lexical Output:   operator    current Token:   =
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   m    Lexical Output:   identifier    current Token:   sum
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   +    Lexical Output:   operator    current Token:   +
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   i    Lexical Output:   identifier    current Token:   i
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ;    Lexical Output:   operator    current Token:   ;
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   f    Lexical Output:   identifier    current Token:   printf
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   (    Lexical Output:   operator    current Token:   (
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   String     Character as interpreted:   "    Lexical Output:   String    current Token:   "%d %d\n"
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ,    Lexical Output:   operator    current Token:   ,
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   m    Lexical Output:   identifier    current Token:   sum
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ,    Lexical Output:   operator    current Token:   ,
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   n    Lexical Output:   identifier    current Token:   n
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   *    Lexical Output:   operator    current Token:   *
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   (    Lexical Output:   operator    current Token:   (
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   identifier     Character as interpreted:   n    Lexical Output:   identifier    current Token:   n
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   +    Lexical Output:   operator    current Token:   +
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   number     Character as interpreted:   1    Lexical Output:   number    current Token:   1
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   )    Lexical Output:   operator    current Token:   )
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   /    Lexical Output:   operator    current Token:   /
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   space     Character as interpreted:        Lexical Output:       current Token:    
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   number     Character as interpreted:   2    Lexical Output:   number    current Token:   2
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   )    Lexical Output:   operator    current Token:   )
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   ;    Lexical Output:   operator    current Token:   ;
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   operator     Character as interpreted:   }    Lexical Output:   operator    current Token:   }
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   top of loop  /////////
+
+----------TOKEN OUTPUT---------
+Token Description:   newline     Character as interpreted:   
+    Lexical Output:       current Token:   
+
+ --------END TOKEN OUTPUT--------
+
+
+
+///////////   Reached end of the file, terminated while loop  /////////
+
